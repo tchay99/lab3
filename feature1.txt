@@ -1,4 +1,1 @@
 new file added on feature1 branch
-<<<<<<< HEAD
-some change in the file
->>>>>>> 4027e07a81c4d9e8716025de3cb54f48250ea0f2
