@@ -1,1 +1,2 @@
 new file added on feature1 branch
+edit and commit changes to the same file
